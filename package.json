@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-automation",
+  "version": "1.0.0",
+  "description": "Automation for saucedemo login and sort",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.17.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
